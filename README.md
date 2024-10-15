@@ -1,6 +1,6 @@
 # Birthday Card
 
-Made a birthday card for my mom. 
+Made a birthday card (in flutter) for my mom.
 
 Card features:
   - loading splash screen
